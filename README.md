@@ -1,2 +1,1 @@
-# Pizza
-My fisrt GitHup upload
+# pizza
